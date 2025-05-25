@@ -1,0 +1,13 @@
+original_category,mapped_category,encoded_label
+Business,Business,0
+Innovation,Technology,4
+Culture,Lifestyle,3
+Earth,Environment,2
+Entertainment,Entertainment,1
+Arts,Lifestyle,3
+Travel,Lifestyle,3
+Economy,Business,0
+Technology,Technology,4
+Climate,Environment,2
+Media,Entertainment,1
+Life,Lifestyle,3
