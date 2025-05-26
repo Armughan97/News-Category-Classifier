@@ -1,0 +1,7 @@
+1. run 'news_api.py' locally by the command "uvicorn news_api:app --reload"
+2. check 'http://127.0.0.1:8000/health' on postman GET to verify server is up
+3. make a new POST request on postman with the url "http://127.0.0.1:8000/predict"
+4. Go to Body>raw>JSON from dropdown
+5. add format:
+{ "text": "news article text here"} 
+6. click "send" button
